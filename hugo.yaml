@@ -1,0 +1,58 @@
+baseURL: https://jcshan709.github.io/
+locale: zh-cn
+theme: hextra
+title: jcshan709 的个人页
+
+defaultContentLanguage: zh
+
+languages:
+  zh:
+    label: 简体中文
+  en:
+    label: English
+
+params:
+  comments:
+    enable: true
+    type: giscus
+
+    giscus:
+      repo: jcshan709/jcshan709.github.io
+      repoId: R_kgDOMWHENg
+      category: Announcements
+      categoryId: DIC_kwDOMWHENs4DKzTt
+      mapping: pathname
+      strict: 1
+      reactionsEnabled: 1
+      emitMetadata: 0
+      inputPosition: top
+      loading: lazy
+      crossorigin: anonymous
+
+menu:
+  main:
+    - name: 博客
+      identifier: blog
+      weight: 2
+      pageRef: /blog
+    - name: GitHub
+      weight: 1
+      url: https://github.com/jcshan709
+    - name: Repo
+      params:
+        icon: github
+      weight: 101
+      url: https://github.com/jcshan709/jcshan709.github.io
+    - name: Search
+      params:
+        type: search
+      weight: 100
+    - name: Language
+      params:
+        type: language-switch
+        icon: globe-alt
+      weight: 103
+    - name: Theme
+      params:
+        type: theme-toggle
+      weight: 102
