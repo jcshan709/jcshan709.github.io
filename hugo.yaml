@@ -20,6 +20,7 @@ params:
       inputPosition: top
       loading: lazy
       crossorigin: anonymous
+      lang: zh-CN
 
 menu:
   main:
@@ -32,7 +33,7 @@ menu:
     - name: 留言板
       weight: 2
       pageRef: /board
-    - name: Repo
+    - name: GitHub 仓库
       params:
         icon: github
       weight: 101
