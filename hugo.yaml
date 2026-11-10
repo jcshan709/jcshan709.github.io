@@ -8,8 +8,11 @@ defaultContentLanguage: zh
 languages:
   zh:
     label: 简体中文
+    locale: zh-cn
   en:
     label: English
+    locale: en-us
+    title: jcshan709's Personal Pages
 
 params:
   comments:
