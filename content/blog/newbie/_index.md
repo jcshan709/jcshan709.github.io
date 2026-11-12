@@ -3,9 +3,14 @@ date: 2026-11-12T17:51:42+08:00
 draft: false
 title: 写给萌新的一些干货
 comments: false
+toc: false
 cascade:
     type: docs
 ---
+
+## Hello World
+
+<!--more-->
 
 如果你是初学计算机的萌新，那么在这里，你可以了解到：
 - 有关 `Git` `GitHub` 等实用工具和平台的相关相识
