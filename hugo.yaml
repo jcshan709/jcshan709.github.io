@@ -4,10 +4,24 @@ theme: hextra
 title: jcshan709 的个人页
 
 params:
+  page:
+    contextMenu:
+      enable: true
+    tabs:
+      sync: true
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: favicon.svg
+  blog:
+    list:
+      displayTags: true
+  toc:
+    displayTags: true
   comments:
     enable: true
     type: giscus
-
     giscus:
       repo: jcshan709/jcshan709.github.io
       repoId: R_kgDOMWHENg
@@ -21,6 +35,13 @@ params:
       loading: lazy
       crossorigin: anonymous
       lang: zh-CN
+
+security:
+  enableInlineShortnodes: true
+
+outputs:
+  page: [html, markdown]
+  section: [html, rss, markdown]
 
 menu:
   main:
