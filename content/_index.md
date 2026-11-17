@@ -25,10 +25,5 @@
 
 - [MiraCeo | 一刻拾光](https://miraceo.com/)
 - [jing2080的猫窝](https://jing2080.me/)
-- [CopperKoi Blog](https://www.copperkoi.cn/)
-- [sandt3a](https://sandt3a.github.io/)
-- [林林杂语](https://www.xiaozonglin.cn/)
-- [F1fk3r's Blog](https://blog.f1fk3r.top/)
 - [Reverier 的博客](https://www.woooo.tech/zh-cn/blog/)
-- [RiK's Blog](https://pwnerik.cn/)
 - [neon](https://neonmz.github.io/)
