@@ -27,3 +27,5 @@
 - [Reverier 的博客](https://www.woooo.tech/zh-cn/blog/)
 - [jing2080的猫窝](https://jing2080.me/)
 - [neon](https://neonmz.github.io/)
+- [nkAnF](https://kanglives.top/)
+- [林林杂语](https://www.xiaozonglin.cn/)
